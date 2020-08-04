@@ -1,0 +1,17 @@
+.notify {
+    color: #333;
+    font-weight: 700;
+    text-align: center;
+    margin: 0 auto;
+    background: #222436;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+
+#saved-task,
+#add-task,
+#delete-task,
+#clear-tasks {
+    display: none;
+}
